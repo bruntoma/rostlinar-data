@@ -39,7 +39,7 @@ Aplikace není určena přímo dětem a od nikoho, dětí nevyjímaje, osobní �
 ## Změny a kontakt
 
 Změny těchto zásad zveřejníme v tomto souboru; historie změn je vidět v repozitáři.
-Dotazy pište přes [GitHub Issues](https://github.com/bruntoma/Rostlinar/issues).
+Dotazy pište přes [GitHub Issues](https://github.com/bruntoma/rostlinar-data/issues).
 
 ---
 
@@ -63,4 +63,4 @@ and collects no personal data. Its only permission is internet access.
 - **Links** open in your browser or phone dialer and are governed by those services' policies.
 
 The app is not directed at children and collects no personal data from anyone.
-Questions: [GitHub Issues](https://github.com/bruntoma/Rostlinar/issues).
+Questions: [GitHub Issues](https://github.com/bruntoma/rostlinar-data/issues).
